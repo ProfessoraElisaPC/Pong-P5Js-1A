@@ -1,4 +1,4 @@
-# Pong-P5Js-1A
+# Projetos-1A
 
 ## Turma: 1ºA 
 
